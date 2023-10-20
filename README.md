@@ -1,5 +1,1 @@
-# sign-language-detector-python
-
-Sign language detector with Python, OpenCV and Mediapipe !
-
-[![Watch the video](https://img.youtube.com/vi/MJCSjXepaAM/0.jpg)](https://www.youtube.com/watch?v=MJCSjXepaAM)
+The challenge at hand is to develop a robust Sign Language Recognition (SLR) system for American Sign Language (ASL) that accurately recognizes and interprets ASL gestures, enabling real-time translation. This system aims to address the communication barriers faced by ASL users in education, employment, and daily interactions, thereby isolating speech-impaired individuals from mainstream society. The goal is to leverage technology to empower ASL users and create a more equitable and inclusive society. Furthermore, this system should integrate with various computer applications, enhancing accessibility and inclusivity, and ultimately bridging the gap between the speech-impaired and the broader community.
